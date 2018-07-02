@@ -413,7 +413,7 @@ GEM
     tzinfo-data (1.2017.3)
       tzinfo (>= 1.0.0)
     uber (0.1.0)
-    uglifier (4.0.2)
+    uglifier (4.1.14)
       execjs (>= 0.3.0, < 3)
     validates_email_format_of (1.6.3)
       i18n
